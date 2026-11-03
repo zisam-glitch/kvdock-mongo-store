@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-mongo-store",
+  "version": "1.0.0",
+  "description": "MongoDB TTL indexed session and cache store powered by kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.0"
+  },
+  "license": "MIT"
+}
